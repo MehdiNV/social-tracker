@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Lena",
+    "city": "Vienna",
+    "coords": [48.2082, 16.3738],
+    "noteURL": "obsidian://open?vault=PeopleTracker&file=People%2FVienna_Lena"
+  },
+  {
+    "name": "Kenji",
+    "city": "Tokyo",
+    "coords": [35.6895, 139.6917],
+    "noteURL": "obsidian://open?vault=PeopleTracker&file=People%2FTokyo_Kenji"
+  },
+  {
+    "name": "Maria",
+    "city": "Barcelona",
+    "coords": [41.3851, 2.1734],
+    "noteURL": "obsidian://open?vault=PeopleTracker&file=People%2FBarcelona_Maria"
+  },
+  {
+    "name": "Omar",
+    "city": "Cairo",
+    "coords": [30.0444, 31.2357],
+    "noteURL": "obsidian://open?vault=PeopleTracker&file=Peop
